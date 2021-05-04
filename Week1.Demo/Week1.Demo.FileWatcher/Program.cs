@@ -25,7 +25,7 @@ namespace Week1.Demo.FileWatcher
             fsw.Created += GestioneEvento.HandleNewTextFile;
 
             Console.WriteLine("Inserisci q per chiudere il programma");
-            while (Console.Read() != 'q') ;
+            while (Console.Read() != 'q') ;  
         }
     }
 }
