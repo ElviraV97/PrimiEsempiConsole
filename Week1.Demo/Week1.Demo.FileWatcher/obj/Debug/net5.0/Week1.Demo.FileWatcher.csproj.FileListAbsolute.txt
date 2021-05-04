@@ -1,0 +1,16 @@
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.FileWatcher\bin\Debug\net5.0\Week1.Demo.FileWatcher.exe
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.FileWatcher\bin\Debug\net5.0\Week1.Demo.FileWatcher.deps.json
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.FileWatcher\bin\Debug\net5.0\Week1.Demo.FileWatcher.runtimeconfig.json
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.FileWatcher\bin\Debug\net5.0\Week1.Demo.FileWatcher.runtimeconfig.dev.json
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.FileWatcher\bin\Debug\net5.0\Week1.Demo.FileWatcher.dll
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.FileWatcher\bin\Debug\net5.0\ref\Week1.Demo.FileWatcher.dll
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.FileWatcher\bin\Debug\net5.0\Week1.Demo.FileWatcher.pdb
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.FileWatcher\obj\Debug\net5.0\Week1.Demo.FileWatcher.csprojAssemblyReference.cache
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.FileWatcher\obj\Debug\net5.0\Week1.Demo.FileWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.FileWatcher\obj\Debug\net5.0\Week1.Demo.FileWatcher.AssemblyInfoInputs.cache
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.FileWatcher\obj\Debug\net5.0\Week1.Demo.FileWatcher.AssemblyInfo.cs
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.FileWatcher\obj\Debug\net5.0\Week1.Demo.FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.FileWatcher\obj\Debug\net5.0\Week1.Demo.FileWatcher.dll
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.FileWatcher\obj\Debug\net5.0\ref\Week1.Demo.FileWatcher.dll
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.FileWatcher\obj\Debug\net5.0\Week1.Demo.FileWatcher.pdb
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.FileWatcher\obj\Debug\net5.0\Week1.Demo.FileWatcher.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\FigureGeometriche\bin\Debug\net5.0\FigureGeometriche.exe
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\FigureGeometriche\bin\Debug\net5.0\FigureGeometriche.deps.json
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\FigureGeometriche\bin\Debug\net5.0\FigureGeometriche.runtimeconfig.json
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\FigureGeometriche\bin\Debug\net5.0\FigureGeometriche.runtimeconfig.dev.json
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\FigureGeometriche\bin\Debug\net5.0\FigureGeometriche.dll
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\FigureGeometriche\bin\Debug\net5.0\ref\FigureGeometriche.dll
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\FigureGeometriche\bin\Debug\net5.0\FigureGeometriche.pdb
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\FigureGeometriche\obj\Debug\net5.0\FigureGeometriche.csprojAssemblyReference.cache
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\FigureGeometriche\obj\Debug\net5.0\FigureGeometriche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\FigureGeometriche\obj\Debug\net5.0\FigureGeometriche.AssemblyInfoInputs.cache
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\FigureGeometriche\obj\Debug\net5.0\FigureGeometriche.AssemblyInfo.cs
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\FigureGeometriche\obj\Debug\net5.0\FigureGeometriche.csproj.CoreCompileInputs.cache
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\FigureGeometriche\obj\Debug\net5.0\FigureGeometriche.dll
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\FigureGeometriche\obj\Debug\net5.0\ref\FigureGeometriche.dll
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\FigureGeometriche\obj\Debug\net5.0\FigureGeometriche.pdb
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\FigureGeometriche\obj\Debug\net5.0\FigureGeometriche.genruntimeconfig.cache
