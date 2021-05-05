@@ -6,8 +6,20 @@ using System.Threading.Tasks;
 
 namespace Week1.Demo.Linq
 {
-    class Valutazione
+    public class Valutazione
     {
-        public string Nome
+        public string NomeStudente { get; set; }
+        public DateTime DataValutazione { get; set; }
+        public int Voto { get; set; }
+        public Materia Materia { get; set; }
+    }
+
+    public enum Materia
+    {
+        Italiano,
+        Matematica,
+        Storia,
+        Geografia
     }
 }
+
