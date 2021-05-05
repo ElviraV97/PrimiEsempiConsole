@@ -17,11 +17,15 @@ namespace FigureGeometriche
             Triangolo t = new Triangolo { Nome = "triangolo", Altezza = 2, Base = 3 };
             t.Disegna();
 
-            IFileSerializable fileSerializable = new Cerchio { Nome = "cerchio", Raggio = 2, CentroX = 3, CentroY = 4 };
-            fileSerializable.SaveToFile(fileName);
-            fileSerializable.LoadFromFile(fileName);
-            IFileSerializable fileSerializable1 = new Rettangolo { Nome = "rettangolo", Altezza = 2, Larghezza = 3 };
-            fileSerializable1.SaveToFile(fileName);
+            //IFileSerializable fileSerializable = new Cerchio { Nome = "cerchio", Raggio = 2, CentroX = 3, CentroY = 4 };
+            //fileSerializable.SaveToFile(fileName);
+            //fileSerializable.LoadFromFile(fileName);
+            //IFileSerializable fileSerializable1 = new Rettangolo { Nome = "rettangolo", Altezza = 2, Larghezza = 3 };
+            //fileSerializable1.SaveToFile(fileName);
+
+            IFileSerializable cerchio = new Cerchio();
+            cerchio.LoadFromFile("cerchio.txt");
+            cerchio.SaveToFile("cerchiosalvato.txt");
         }
     }
 }

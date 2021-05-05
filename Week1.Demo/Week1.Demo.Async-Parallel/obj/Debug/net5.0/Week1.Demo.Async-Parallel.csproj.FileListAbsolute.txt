@@ -1,0 +1,16 @@
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Async-Parallel\bin\Debug\net5.0\Week1.Demo.Async-Parallel.exe
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Async-Parallel\bin\Debug\net5.0\Week1.Demo.Async-Parallel.deps.json
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Async-Parallel\bin\Debug\net5.0\Week1.Demo.Async-Parallel.runtimeconfig.json
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Async-Parallel\bin\Debug\net5.0\Week1.Demo.Async-Parallel.runtimeconfig.dev.json
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Async-Parallel\bin\Debug\net5.0\Week1.Demo.Async-Parallel.dll
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Async-Parallel\bin\Debug\net5.0\ref\Week1.Demo.Async-Parallel.dll
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Async-Parallel\bin\Debug\net5.0\Week1.Demo.Async-Parallel.pdb
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Async-Parallel\obj\Debug\net5.0\Week1.Demo.Async-Parallel.csprojAssemblyReference.cache
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Async-Parallel\obj\Debug\net5.0\Week1.Demo.Async-Parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Async-Parallel\obj\Debug\net5.0\Week1.Demo.Async-Parallel.AssemblyInfoInputs.cache
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Async-Parallel\obj\Debug\net5.0\Week1.Demo.Async-Parallel.AssemblyInfo.cs
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Async-Parallel\obj\Debug\net5.0\Week1.Demo.Async-Parallel.csproj.CoreCompileInputs.cache
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Async-Parallel\obj\Debug\net5.0\Week1.Demo.Async-Parallel.dll
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Async-Parallel\obj\Debug\net5.0\ref\Week1.Demo.Async-Parallel.dll
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Async-Parallel\obj\Debug\net5.0\Week1.Demo.Async-Parallel.pdb
+C:\Users\elvira.verrengia\Desktop\ConsoleApp\PrimiEsempiConsole\Week1.Demo\Week1.Demo.Async-Parallel\obj\Debug\net5.0\Week1.Demo.Async-Parallel.genruntimeconfig.cache

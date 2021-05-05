@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,13 +20,12 @@ namespace FigureGeometriche
 
         public virtual void SaveToFile(string fileName)
         {
-            Console.WriteLine("Figura salvata");
+            Console.WriteLine("File salvato");
         }
 
         public virtual void LoadFromFile(string fileName)
         {
-            Console.WriteLine("Figura caricata");
+            Console.WriteLine("File caricato");
         }
-                
-    }
+     }
 }
